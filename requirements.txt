@@ -1,0 +1,7 @@
+pika
+ConfigParser
+requests
+simplejson
+boto
+#psycopg2
+#MySQLdb

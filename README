@@ -1,0 +1,13 @@
+* How to install this library
+
+  sudo python setup.py install
+
+* How to use this library
+  - the library is breakdown into multiple mini libraries to use it you import it like this way
+
+  ( inside python file )
+  from superlibrary.log import superlog as superlog <- you can assign this to any variable you want
+
+  superlog.test() # you can now use this way
+
+
